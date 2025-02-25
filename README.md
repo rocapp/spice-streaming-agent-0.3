@@ -1,6 +1,6 @@
 # spice-streaming-agent-0.3
 
-**forked from: https://gitlab.freedesktop.org/spice/spice-streaming-agent/-/tree/v0.3?ref_type=tags**
+Forked from: https://gitlab.freedesktop.org/spice/spice-streaming-agent/-/tree/v0.3?ref_type=tags
 
 Introduction
 ============
